@@ -1,20 +1,5 @@
 # Lesson: Digital & Serious Games
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital & Serious Games Personal Repository: xxx
-
-# Introduction
-
-test
-
-# Summary
-
-
-# 1st Deliverable
-# Lesson: Digital & Serious Games
-
 ### First and Last Name: IORDANHS ELIZOGLOU
 ### University Registration Number: dpsd19034
 ### GitHub Personal Profile: [Jelizog](https://github.com/Jelizog)
